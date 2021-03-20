@@ -12,7 +12,7 @@ This project is to demo Dataproc perform classic mapreduce work - word count for
 
 In GCP console, we search *dataproc* and create cluster for this project in *Clusters* tab. 
 
-![](demopic\Picture3.png)
+![](/demopic/Picture3.png)
 
 We can also set up the configuration for this cluster such as machine type or work nodes.
 
